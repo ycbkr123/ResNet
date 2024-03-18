@@ -1,6 +1,6 @@
 # ResNet-python
 ResNet모델을 공부하기 위해 사용한 코드입니다.
-해당 https://github.com/pytorch/vision/blob/6db1569c89094cf23f3bc41f79275c45e9fcb3f3/torchvision/models/resnet.py 참고하여 사용했습니다.
+해당 출처는 https://github.com/pytorch/vision/blob/6db1569c89094cf23f3bc41f79275c45e9fcb3f3/에 있으며 참고하여 사용했습니다.
 
 ![image](https://github.com/ycbkr123/ResNet/assets/73626645/2356ac1d-cf17-4743-a933-b932e536afc6)
 
